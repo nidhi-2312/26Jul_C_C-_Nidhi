@@ -1,13 +1,23 @@
 #include<stdio.h>
 void main()
 {
-    int i;
-    for(i = 0; i < 10; i++)
+    int i,flag=0;
+    int no;
+    printf("Enter no to check wether it prime or not:");   
+    scanf("%d",&no);
+    for(i = 2; i < no; i++)
     {
-        if(i == 5)
-            goto done;
-        printf("%d\n",i);
+        if(no % i == 0)
+        {
+            flag=1;
+            goto  prime;
+        }
     }
-    done:
-        printf("This is GoTo Statment......");
+    prime:
+    {
+        if(flag == 0)
+            printf("%d is prime no.",no);
+        else
+            printf("%d is not prime no.",no);
+    }
 }
