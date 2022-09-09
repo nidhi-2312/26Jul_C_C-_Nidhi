@@ -3,7 +3,7 @@ void main()
 {
     int i,flag=0;
     int no;
-    printf("Enter no to check wether it prime or not:");   
+    printf("Enter no to check wether the no is prime or not:");   
     scanf("%d",&no);
     for(i = 2; i < no; i++)
     {
