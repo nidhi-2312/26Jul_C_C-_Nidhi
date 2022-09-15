@@ -17,4 +17,3 @@ void main()
     {
         printf("No[%d]:\t%d\n",i+1,*ptr++);
     }
-}
