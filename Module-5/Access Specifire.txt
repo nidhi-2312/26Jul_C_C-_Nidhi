@@ -1,0 +1,6 @@
+            Within-Class        Inharite-Class          Out-of-the-Class
+1.Public    Yes                 Yes                     Yes
+2.Private   Yes                 No                      No
+3.Protected Yes                 Yes                     No
+
+Private Default (No need define)

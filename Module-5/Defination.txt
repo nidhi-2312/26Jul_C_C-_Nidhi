@@ -1,0 +1,21 @@
+1.Class
+    Blueprint of the Object.        OR
+    Collection of the data-member and member-function
+//Not able to initialize data-member out of the function
+//never occupie the memory
+
+2.Object
+    Instance of the Class
+//Occupie the memory
+
+3.Inheritance
+    Reusablty of Class
+4.Polymorphism
+    One name many form
+
+5.Encapsulation
+    Wrraping | Binding up the data
+
+6.Abstraction
+    Hide the data (in the background)
+//non use of the user 
