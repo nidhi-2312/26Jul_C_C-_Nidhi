@@ -1,0 +1,20 @@
+Defination:-
+->Reusablity of class 
+
+Types:-
+1.Sigle level
+->There's only one base(perent) class and one derived(child) class.
+
+2.Multi level
+->One grand perent class, one perent and one child class.
+
+3.Multiple
+->One base class and multiple derived class.
+
+4.Hirachical
+->Multiple base class and one derived class.
+
+5.Hybrid
+->Combition of any types.
+-------------------------------------
+->Object is only created for last derived class.
