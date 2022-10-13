@@ -1,0 +1,15 @@
+One name many form
+----------------------------------------
+types:-
+
+1.Compile:
+    a.Overloadding
+        I.Function Overloadding
+        ->Same class, same name of Function but with diffrent paremeter
+        II.Operator Overloadding(using operator keyword)
+
+    b.Overridding
+    ->Same name of Function, same paremeter but diffrent class
+
+2.Run:
+    a.virtual
