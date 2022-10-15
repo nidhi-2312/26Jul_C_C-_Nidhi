@@ -3,10 +3,10 @@ One name many form
 types:-
 
 1.Compile:
-    a.Overloadding
-        I.Function Overloadding
+    a.Overloading
+        I.Function Overloading
         ->Same class, same name of Function but with diffrent paremeter
-        II.Operator Overloadding(using operator keyword)
+        II.Operator Overloading(using operator keyword)
 
     b.Overridding
     ->Same name of Function, same paremeter but diffrent class
